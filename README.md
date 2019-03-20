@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/gattinenirohini66/logging-Dto.svg?branch=master)](https://travis-ci.org/gattinenirohini66/logging-Dto)
 
-[![Coverage Status](https://travis-ci.org/gattinenirohini66/logging-Dto.svg?branch=master)](https://travis-ci.org/gattinenirohini66/logging-Dto.svg?branch=master)
+[![codecov](https://codecov.io/gattinenirohini66/logging-Dto.svg.svg)](https://codecov.io/gattinenirohini66/logging-Dto.svg)
 
 https://travis-ci.org/gattinenirohini66/logging-Dto.svg?retina=true
 # Logback Spring Boot Demo
