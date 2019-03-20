@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/gattinenirohini66/logging-Dto-yellow.svg?branch=master)](https://travis-ci.org/gattinenirohini66/logging-Dto)
+[![Build Status](https://travis-ci.org/gattinenirohini66/logging-Dto-green.svg?branch=master)](https://travis-ci.org/gattinenirohini66/logging-Dto)
 
 
 https://travis-ci.org/gattinenirohini66/logging-Dto.svg?branch=master
